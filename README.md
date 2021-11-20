@@ -1,3 +1,3 @@
-Django Todo App
+# Django Todo App
 
-[Live Project](https://git.heroku.com/carla-django-todo-app.git)
+[Live Project](https://carla-django-todo-app.herokuapp.com/)
